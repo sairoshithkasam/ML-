@@ -1,2 +1,2 @@
 # ML-
-LinearRegression(dataset is diabetes)
+LinearRegression(dataset using diabetes)
