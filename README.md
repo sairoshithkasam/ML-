@@ -1,2 +1,1 @@
-# ML-
-LinearRegression(dataset using diabetes)
+Machine Learning capstone projects
